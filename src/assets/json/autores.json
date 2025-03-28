@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ana Gómez",
+      "imagen": "autor1.jpg",
+      "descripcion": "Psicóloga especializada en Trastorno del Espectro Autista (TEA) con más de 10 años de experiencia.",
+      "redesSociales": {
+        "facebook": "https://facebook.com/anagomez",
+        "twitter": "https://twitter.com/anagomez",
+        "linkedin": "https://linkedin.com/in/anagomez"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Pérez",
+      "imagen": "autor2.jpg",
+      "descripcion": "Terapeuta ocupacional con enfoque en Asperger y neurodivergencia en adultos.",
+      "redesSociales": {
+        "facebook": "https://facebook.com/carlosperez",
+        "twitter": "https://twitter.com/carlosperez",
+        "linkedin": "https://linkedin.com/in/carlosperez"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "María López",
+      "imagen": "autor3.jpg",
+      "descripcion": "Nutricionista especializada en dietas para personas con TDAH y otras condiciones neurodivergentes.",
+      "redesSociales": {
+        "facebook": "https://facebook.com/marialopez",
+        "twitter": "https://twitter.com/marialopez",
+        "linkedin": "https://linkedin.com/in/marialopez"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Juan Martínez",
+      "imagen": "autor4.jpg",
+      "descripcion": "Educador con experiencia en inclusión escolar para niños con TEA y TDAH.",
+      "redesSociales": {
+        "facebook": "https://facebook.com/juanmartinez",
+        "twitter": "https://twitter.com/juanmartinez",
+        "linkedin": "https://linkedin.com/in/juanmartinez"
+      }
+    }
+  ]

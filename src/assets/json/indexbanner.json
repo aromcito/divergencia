@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "Image": "specialities-01.svg",
+        "Title": "Manicura"
+    },
+    {
+        "id": 2,
+        "Image": "specialities-02.svg",
+        "Title": "Profesor"
+    },
+    {
+        "id": 3,
+        "Image": "specialities-03.svg",
+        "Title": "Kinesiología"
+    },
+    {
+        "id": 4,
+        "Image": "specialities-04.svg",
+        "Title": "Veterinaria"
+    },
+    {
+        "id": 5,
+        "Image": "specialities-05.svg",
+        "Title": "Nutricionista"
+    },
+    {
+        "id": 6,
+        "Image": "specialities-06.svg",
+        "Title": "Psicólogo"
+    },
+    {
+        "id": 7,
+        "Image": "specialities-07.svg",
+        "Title": "Abogado"
+    }
+]

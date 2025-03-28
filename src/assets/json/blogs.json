@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "imagen": "blog1.jpg",
+      "autorImagen": "autor1.jpg",
+      "autorNombre": "Ana Gómez",
+      "fecha": "15 Oct 2023",
+      "titulo": "Consejos para padres de niños con TEA",
+      "descripcionCorta": "Descubre cómo apoyar a tus hijos en su desarrollo."
+    },
+    {
+      "id": 2,
+      "imagen": "blog2.jpg",
+      "autorImagen": "autor2.jpg",
+      "autorNombre": "Carlos Pérez",
+      "fecha": "10 Oct 2023",
+      "titulo": "Terapias efectivas para el Asperger",
+      "descripcionCorta": "Explora las mejores opciones terapéuticas."
+    },
+    {
+      "id": 3,
+      "imagen": "blog3.jpg",
+      "autorImagen": "autor3.jpg",
+      "autorNombre": "María López",
+      "fecha": "5 Oct 2023",
+      "titulo": "Restaurantes amigables para personas neurodivergentes",
+      "descripcionCorta": "Lugares que ofrecen un ambiente inclusivo."
+    },
+    {
+      "id": 4,
+      "imagen": "blog4.jpg",
+      "autorImagen": "autor4.jpg",
+      "autorNombre": "Juan Martínez",
+      "fecha": "1 Oct 2023",
+      "titulo": "Cómo manejar el TDAH en la escuela",
+      "descripcionCorta": "Estrategias para un mejor rendimiento académico."
+    }
+  ]
