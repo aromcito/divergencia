@@ -5,3 +5,8 @@ module.exports = defineConfig({
     port: 3000 // Cambia el puerto aquí
   }
 })
+module.exports = {
+  devServer: {
+    proxy: 'http://localhost:4000'
+  }
+};
